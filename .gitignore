@@ -61,3 +61,5 @@ temp/
 
 # -----------------------
 notes-api-web-server.pem
+
+src/api/uploads/file
